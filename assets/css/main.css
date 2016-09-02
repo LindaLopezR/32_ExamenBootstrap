@@ -1,3 +1,14 @@
-.mar-5 {
-	margin-top: 5%;
+#logo {
+	width: 70%;
+}
+
+.img-cont, .cliente, .articulo {
+	width: 100%;
+}
+.fn-cliente {
+	background-image: url(../images/client-bg.jpg);
+	background-repeat: no-repeat;
+}
+.posicion {
+	display: inline-block;
 }

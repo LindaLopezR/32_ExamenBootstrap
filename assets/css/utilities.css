@@ -1,1 +1,13 @@
-utilities
+
+.mar-10 {
+	margin-top: 10%;
+}
+.mar-3 {
+	margin: 3% 0;
+}
+.pad-5 {
+	padding: 5%;
+}
+.pad-3 {
+	padding: 3%;
+}
